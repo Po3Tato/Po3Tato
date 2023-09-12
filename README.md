@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jude</h1>
 <h3 align="center">I'm in school for cybersecurity with a focus on Network Security Architecture.</h3>
 
+<h2 align="1eft">Projects and Scripts</h2>
+
 - I’m currently working on [Go Live!](https://github.com/Po3Tato/Go-Live)
 
-- Linus script for server-services deployment [docker_installs](https://github.com/Po3Tato/docker_install)
+- Linux script for server-services deployment [docker_installs](https://github.com/Po3Tato/docker_install)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
