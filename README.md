@@ -3,7 +3,7 @@
 
 <h2 align="1eft">Projects and Scripts</h2>
 
-- I’m currently working on [Go Live!](https://github.com/Po3Tato/Go-Live)
+- I’m currently working on [Here Application](https://github.com/Po3Tato/here-app-repo)
 
 - Linux script for server-services deployment [docker_installs](https://github.com/Po3Tato/docker_install)
 
