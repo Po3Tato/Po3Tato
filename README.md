@@ -5,7 +5,7 @@
 
 - I’m currently working on [Here App](https://github.com/Po3Tato/here-app-repo) and [Go Live](https://github.com/Po3Tato/Go-Live)
 
-- Linux script for server-services deployment [docker_installs](https://github.com/Po3Tato/docker_install)
+- Linux script for server-services deployment [Docker-install](https://github.com/Po3Tato/homelab-doc/tree/main/Docker-install)
 
 <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
