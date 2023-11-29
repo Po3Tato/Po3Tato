@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jude</h1>
 <h3 align="center">I'm in school for cybersecurity with a focus on Network Security Architecture.</h3>
 
-<h2 align="1eft">Projects and Scripts</h2>
+<h2 align="1eft">Projects</h2>
 
-- I’m currently working on [Here App](https://github.com/Po3Tato/here-app-repo) and [Go Live](https://github.com/Po3Tato/Go-Live)
+- I’m currently working on [Go Live](https://github.com/Po3Tato/Go-Live)
 
-- Linux script for server-services deployment [Docker-install](https://github.com/Po3Tato/homelab-doc/tree/main/Docker-install)
+- Made an attendance application for a professor [Here App](https://github.com/Po3Tato/Here-App)
+
+- [Homelab Documentation](https://github.com/Po3Tato/homelab-doc)
 
 <h3 align="left">Languages and Tools:</h3>
 <p></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
