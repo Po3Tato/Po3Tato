@@ -3,8 +3,8 @@
 
 <h2 align="1eft">Projects</h2>
 
-- I’m currently working on [Go Live](https://github.com/Po3Tato/Go-Live)
-
+- Currently studyng for Sec+
+- [Go Live](https://github.com/Po3Tato/Go-Live) is on HALT
 - Made an attendance application for a professor [Here App](https://github.com/Po3Tato/Here-App)
 
 - [Homelab Documentation](https://github.com/Po3Tato/homelab-doc)
