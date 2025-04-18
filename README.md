@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-I'm a cybersecurity professional with a focus on DevOps security and infrastructure automation. I build and manage resilient, secure systems using modern GitOps approaches and infrastructure as code.
+I'm a security student with a focus on DevOps security and infrastructure automation. I manage my homelab using modern GitOps approaches and infrastructure as code.
 
 ## 🛠️ Skills & Technologies
 
