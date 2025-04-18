@@ -1,4 +1,3 @@
-# 👋 Hello there!
 
 I'm a security student with a focus on DevOps security and infrastructure automation. I manage my homelab using modern GitOps approaches and infrastructure as code.
 
