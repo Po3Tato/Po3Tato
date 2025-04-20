@@ -1,5 +1,5 @@
 
-I'm a security student with a focus on DevOps security and infrastructure automation. I manage my homelab using modern GitOps approaches and infrastructure as code.
+I'm a cybersecurity student with a focus in DevOps security and infrastructure automation.
 
 ## 🚀 Projects
 
