@@ -3,17 +3,16 @@ I'm a cybersecurity student with a focus in DevOps security and infrastructure a
 
 ## 🚀 Projects
 
-### HomeOps-as-Code
+### [HomeOps-as-Code](https://github.com/Po3Tato/HomeOps-as-Code)
 A GitOps approach to managing my entire homelab infrastructure, applying best practices from enterprise environments to home infrastructure.
 
 - Automated deployment and configuration of VMs and containers
-- Multi-environment management (prod/dev/vps)
+- Multi-environment management
 - Hybrid cloud and on-premises infrastructure
 - Secure networking with Tailscale and proper firewall configuration
-- [Repository](https://github.com/Po3Tato/HomeOps-as-Code)
 
-### Docker Playbooks Collection
-A curated collection of Docker Compose configurations for self-hosted services.
+### [Docker Playbooks Collection](https://github.com/Po3Tato/docker-playbooks)
+A curated collection of Docker Compose configurations for my self-hosted services.
 
 - Includes configurations for 15+ services including:
   - Forgejo (Git server)
@@ -21,12 +20,9 @@ A curated collection of Docker Compose configurations for self-hosted services.
   - Monitoring tools (Grafana, Beszel, Uptime-Kuma)
   - AI Stack with Open-WebUI
 - Configured with best practices for security and integration
-- [Repository](https://github.com/Po3Tato/docker-playbooks)
 
-### Here App
+### [Here App](https://github.com/Po3Tato/Here-App)
 Attendance tracking application for professors.
-
-- [Repository](https://github.com/Po3Tato/Here-App)
 
 ## 🔍 Current Focus
 Exploring Kubernetes with [Talos](https://www.talos.dev/), enhancing security monitoring, and implementing GitOps workflows for continuous deployment.
